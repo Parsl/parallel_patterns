@@ -7,5 +7,5 @@ The topics covered in these implementations are:
 1. Basic functions and patterns.
 2. [Sequences, Loops and Routing.](https://github.com/Parsl/parallel_patterns/blob/master/Sequences%20and%20Loops.ipynb)
 3. Recursion.
-4. [Monte-Carlo Simulations](
+4. [Monte-Carlo Simulations](https://github.com/Parsl/parallel_patterns/blob/master/Monte-Carlo%20Simulations.ipynb)
 5. [Mathematical models and estimation algorithms.](https://github.com/Parsl/parallel_patterns/blob/master/Mathematical%20Models%20and%20Estimation%20Algorithms.ipynb)
