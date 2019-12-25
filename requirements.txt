@@ -1,0 +1,5 @@
+parsl
+numpy
+matplotlib
+seaborn
+PIL
