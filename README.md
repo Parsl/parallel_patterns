@@ -1,6 +1,8 @@
 # Implementations of Computing Patterns in Parsl
 
-This repository houses important examples and implementations of computing patterns and workflows in Parsl. The jupyter notebooks are meant to provide a template that engineers and scientists can use to build their own parallel workflows.
+Parsl is a parallel scripting package in Python.
+
+This repository houses important examples and implementations of computing patterns and workflows in Parsl for data management, mathematical models, computing techniques and simulations. The jupyter notebooks are meant to provide a template that engineers and scientists can use to build their own parallel workflows.
 
 The topics covered in these implementations are: 
 
