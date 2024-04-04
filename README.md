@@ -4,6 +4,8 @@ Parsl is a parallel scripting package in Python.
 
 This repository houses important examples and implementations of computing patterns and workflows in Parsl for data management, mathematical models, computing techniques and simulations. The jupyter notebooks are meant to provide a template that engineers and scientists can use to build their own parallel workflows.
 
+You can [open this repo in mybinder](https://mybinder.org/v2/gh/Parsl/parallel_patterns/HEAD) to try these online without having to download or install any software
+
 The topics covered in these implementations are: 
 
 1. [Sequences, Loops and Routing.](https://github.com/Parsl/parallel_patterns/blob/master/Sequences%20and%20Loops.ipynb)
